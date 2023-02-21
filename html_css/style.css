@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+body {
+    background-image: linear-gradient(to right, #F2E2CE, #e4c59e );
+    font-family: sans-serif
+}
+main{
+    text-align: justify;
+}
+
+#principal {
+    font-size: 50px;
+    text-align: center;
+}
+.menu{
+    list-style-type: none;
+    position: relative;
+}
+li{
+    display: inline;
+}
+.menu li a{
+    text-decoration: none;
+    color: black;
+}
+.prontaEntrega{
+    background-color: white;
+    border-radius: 10px;
+    padding: 40px;
+    margin: auto;
+}
+.maisVendidos{
+    background-color: white;
+    border-radius: 10px;
+    padding: 40px;
+    margin: auto;
+}
+.outlet{
+    background-color: white;
+    border-radius: 10px;
+    padding: 40px;
+    margin: auto;
+}
+.sobre{
+    background-color: white;
+    border-radius: 10px;
+    padding: 40px;
+    margin: auto;
+}
+h2 {
+    font-size: 30px;
+
+}
+
+footer {
+    text-align: center;
+    font-size: 15px;
+}
+
